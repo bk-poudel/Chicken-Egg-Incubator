@@ -1,5 +1,5 @@
 # Chicken Egg Incubator
-
+Bibek Poudel
 This project is for creating a chicken egg incubator using PlatformIO.
 
 ## Libraries Used/Required
