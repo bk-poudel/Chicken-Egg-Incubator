@@ -47,20 +47,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License.
 
-## Schematic
-
-Please refer to the `schematic.png` file in the repository for the wiring diagram.
-
-## Code Overview
-
-The code is organized into several files:
-
-- `main.cpp`: The main program file that initializes the system and contains the main loop.
-- `temperature_control.cpp`: Contains functions for reading the temperature sensor and controlling the heating element.
-- `humidity_control.cpp`: Contains functions for reading the humidity sensor and controlling the humidifier.
-- `egg_turning.cpp`: Contains functions for controlling the servo motor to turn the eggs.
-- `lcd_display.cpp`: Contains functions for updating the LCD display with the current status.
-
 ## Troubleshooting
 
 If you encounter any issues, please check the following:
