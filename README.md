@@ -4,7 +4,6 @@ This project is for creating a chicken egg incubator using PlatformIO.
 ## Libraries Used/Required
 
 - `DHT.h`: For reading temperature and humidity from DHT sensors. [Download](https://github.com/adafruit/DHT-sensor-library)
-- `Servo.h`: For controlling the servo motor. [Download](https://github.com/arduino-libraries/Servo)
 - `LiquidCrystal.h`: For controlling the LCD display. [Download](https://github.com/arduino-libraries/LiquidCrystal)
 - `Wire.h`: For I2C communication with sensors and the LCD display. [Download](https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/Wire)
 - `Adafruit_Sensor.h`: Unified sensor library for interfacing with various sensors. [Download](https://github.com/adafruit/Adafruit_Sensor)
@@ -21,14 +20,14 @@ This project is for creating a chicken egg incubator using PlatformIO.
 - PlatformIO
 - Arduino or compatible microcontroller
 - Temperature and humidity sensors
-- Servo motor for egg turning
+- Actuator/Motor for egg turning
 - LCD display
 
 ## Installation
 
 1. Clone this repository.
     ```sh
-    git clone https://github.com/yourusername/chicken-egg-incubator.git
+    git clone https://github.com/bk-poudel/Chicken-Egg-Incubator.git
     ```
 2. Open the project with PlatformIO.
 3. Upload the code to your microcontroller.
